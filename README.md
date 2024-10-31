@@ -1,2 +1,2 @@
 # docker
-A repository to study Docker and its funcionalities
+A repository to study Docker and its funcionalities!
